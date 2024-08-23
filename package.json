@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/aldimhernandez/ls-function-nodejs-midudev"
   },
-  "homepage": "https://github.com/aldimhernandez/ls-function-nodejs-midudev#readme"
+  "homepage": "https://github.com/aldimhernandez/ls-function-nodejs-midudev#readme",
+  "dependencies": {
+    "picocolors": "^1.0.1"
+  }
 }
