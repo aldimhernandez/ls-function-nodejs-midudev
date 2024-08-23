@@ -24,6 +24,12 @@
   },
   "homepage": "https://github.com/aldimhernandez/ls-function-nodejs-midudev#readme",
   "dependencies": {
-    "picocolors": "^1.0.1"
+    "picocolors": "1.0.1"
+  },
+  "devDependencies": {
+    "standard": "17.1.0"
+  },
+  "eslintConfig": {
+    "extends": "standard"
   }
 }
